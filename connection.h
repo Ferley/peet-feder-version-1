@@ -12,7 +12,7 @@
 #define MAC "12345678"
 /*----------------------------*/
 /*WIFI CREDENTIALS*/
-/*hola*/
+/*hola ferley*/
 #define ferley_router
 #if defined(ferley_router)
   #define ssid     "VALLEJO_CA"
